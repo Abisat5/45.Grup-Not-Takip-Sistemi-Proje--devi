@@ -7,16 +7,16 @@
   # 2-) Projenin dosya konumuna gelinir.
   # 3-) frontend klasörüne girilir.
   # 4-) NPM gereksinimleri indirilir 
-    # * npm install
+     * npm install
   # 5-) NPM başlatılır
-    # * npm start 
+     * npm start 
   # 6-) Diğer komut istemcesinde projenin dosya konumuna gidilir
   # 7-) Backend klasörüne girilir
   # 8-) MAVEN gereksinimleri indirilir.
   # 9-) MAVEN ile proje derlenir
-   #   * mvn compile
+      * mvn compile
   # 10-) MAVEN ile proje test edilir
-    #  * mvn test 
+      * mvn test 
   # 11-) MAVEN ile backend projesi başlatılır
-    #  * mvn spring-boot:run
+      * mvn spring-boot:run
   # 12-) Daha sonrasında açılan localhost:3000 sayfalarından gerekli işlemler yapılabilir.
